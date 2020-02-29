@@ -1,0 +1,3 @@
+﻿  rpg_inventory_app.cpp
+c:\users\cg_19\source\repos\carol_gabriel_1732994\carol_gabriel_1732994\rpg_inventory_imp.h(244): warning C4715: 'searchItemID': not all control paths return a value
+  Carol_Gabriel_1732994.vcxproj -> C:\Users\cg_19\Source\Repos\Carol_Gabriel_1732994\Debug\Carol_Gabriel_1732994.exe
